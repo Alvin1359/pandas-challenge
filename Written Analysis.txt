@@ -1,0 +1,17 @@
+Conclusion One:
+
+- The % Overall Passing rate of Maths and Reading seems to depend on the type of school ("District" or "Charter")
+- Students who go to a "Charter" school are much more likely to pass both Math and Reading with a 90.43% pass rate, compared to only a 53.67% pass rate for students in a "District" school
+- This is despite the fact that the Average Reading and Math score are similar between each school type. This most likely is caused by a high variablity in "District" school results compared to "Charter" schools
+
+
+Conclusion Two:
+
+- The % Overall Passing rate also seems to depend on the amount of students in a school
+- As the number of students increase, the % Overall Passing rate decreases
+	- Small < 1000: 89.89%
+	- Medium 1000 - 2000: 90.62%
+	- Large 2000 - 5000: 58.27%
+- This result may be biased due to the larger bin size used in the group "Large", further analysis on the number of schools in each bin would be needed to see if this is the case
+
+*As a side conclusion, it is interesting to see that as spending per student increases, % Overall Passing rate actually decreases quite steeply (from 90.37% for <$584 to 53.53% for >$645)
