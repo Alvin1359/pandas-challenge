@@ -1,5 +1,4 @@
-# Pandas Challenge
-Repository containing Pandas Challenge
+# Pandas - School Summaries
 This challenge requires analysing some sample school results in order to aggregate the data and show any trends  
   
 **District Summary**  
